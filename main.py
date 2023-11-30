@@ -33,9 +33,11 @@ else:
     print("kichkinasan")
                                                             # 3-mashq
 
-    b = int(input("sonni kiriting: "))
-    son = n + 1
-    print(f"{n} dan keyin {keyingi_son} keladi")
+b = int(input("sonni kiriting: "))
+
+son=b+1
+
+print(f"{b} dan keyin {son} keladi")
 
 
 
